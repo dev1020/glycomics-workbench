@@ -1,0 +1,163 @@
+{
+  "resources/fonts/fontawesome/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-003f1154.ttf",
+    "src": "resources/fonts/fontawesome/fa-brands-400.ttf"
+  },
+  "resources/fonts/fontawesome/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-faae6fc0.woff2",
+    "src": "resources/fonts/fontawesome/fa-brands-400.woff2"
+  },
+  "resources/fonts/fontawesome/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-7d81a1a7.ttf",
+    "src": "resources/fonts/fontawesome/fa-regular-400.ttf"
+  },
+  "resources/fonts/fontawesome/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-9169d8be.woff2",
+    "src": "resources/fonts/fontawesome/fa-regular-400.woff2"
+  },
+  "resources/fonts/fontawesome/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-cea79b34.ttf",
+    "src": "resources/fonts/fontawesome/fa-solid-900.ttf"
+  },
+  "resources/fonts/fontawesome/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-886c8611.woff2",
+    "src": "resources/fonts/fontawesome/fa-solid-900.woff2"
+  },
+  "resources/fonts/inter/inter-v13-latin-300.woff2": {
+    "file": "assets/inter-v13-latin-300-09eea703.woff2",
+    "src": "resources/fonts/inter/inter-v13-latin-300.woff2"
+  },
+  "resources/fonts/inter/inter-v13-latin-500.woff2": {
+    "file": "assets/inter-v13-latin-500-eebf14ab.woff2",
+    "src": "resources/fonts/inter/inter-v13-latin-500.woff2"
+  },
+  "resources/fonts/inter/inter-v13-latin-600.woff2": {
+    "file": "assets/inter-v13-latin-600-3022fadd.woff2",
+    "src": "resources/fonts/inter/inter-v13-latin-600.woff2"
+  },
+  "resources/fonts/inter/inter-v13-latin-700.woff2": {
+    "file": "assets/inter-v13-latin-700-7b43cb86.woff2",
+    "src": "resources/fonts/inter/inter-v13-latin-700.woff2"
+  },
+  "resources/fonts/inter/inter-v13-latin-800.woff2": {
+    "file": "assets/inter-v13-latin-800-03db2737.woff2",
+    "src": "resources/fonts/inter/inter-v13-latin-800.woff2"
+  },
+  "resources/fonts/inter/inter-v13-latin-900.woff2": {
+    "file": "assets/inter-v13-latin-900-c67b5d31.woff2",
+    "src": "resources/fonts/inter/inter-v13-latin-900.woff2"
+  },
+  "resources/fonts/inter/inter-v13-latin-regular.woff2": {
+    "file": "assets/inter-v13-latin-regular-2301bb03.woff2",
+    "src": "resources/fonts/inter/inter-v13-latin-regular.woff2"
+  },
+  "resources/fonts/simple-line-icons/Simple-Line-Icons.eot": {
+    "file": "assets/Simple-Line-Icons-1c823013.eot",
+    "src": "resources/fonts/simple-line-icons/Simple-Line-Icons.eot"
+  },
+  "resources/fonts/simple-line-icons/Simple-Line-Icons.svg": {
+    "file": "assets/Simple-Line-Icons-9b87d2b6.svg",
+    "src": "resources/fonts/simple-line-icons/Simple-Line-Icons.svg"
+  },
+  "resources/fonts/simple-line-icons/Simple-Line-Icons.ttf": {
+    "file": "assets/Simple-Line-Icons-3f501ddb.ttf",
+    "src": "resources/fonts/simple-line-icons/Simple-Line-Icons.ttf"
+  },
+  "resources/fonts/simple-line-icons/Simple-Line-Icons.woff": {
+    "file": "assets/Simple-Line-Icons-14b825d7.woff",
+    "src": "resources/fonts/simple-line-icons/Simple-Line-Icons.woff"
+  },
+  "resources/fonts/simple-line-icons/Simple-Line-Icons.woff2": {
+    "file": "assets/Simple-Line-Icons-104673f4.woff2",
+    "src": "resources/fonts/simple-line-icons/Simple-Line-Icons.woff2"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-f9f1eaaf.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/dashmix/app.js": {
+    "file": "assets/app-4145fd9c.js",
+    "isEntry": true,
+    "src": "resources/js/dashmix/app.js"
+  },
+  "resources/js/pages/datatables.js": {
+    "file": "assets/datatables-227eb398.js",
+    "isEntry": true,
+    "src": "resources/js/pages/datatables.js"
+  },
+  "resources/sass/dashmix/themes/xdream.scss": {
+    "file": "assets/xdream-bb8e1dc1.css",
+    "isEntry": true,
+    "src": "resources/sass/dashmix/themes/xdream.scss"
+  },
+  "resources/sass/dashmix/themes/xeco.scss": {
+    "file": "assets/xeco-522d1c3c.css",
+    "isEntry": true,
+    "src": "resources/sass/dashmix/themes/xeco.scss"
+  },
+  "resources/sass/dashmix/themes/xinspire.scss": {
+    "file": "assets/xinspire-d591de21.css",
+    "isEntry": true,
+    "src": "resources/sass/dashmix/themes/xinspire.scss"
+  },
+  "resources/sass/dashmix/themes/xmodern.scss": {
+    "file": "assets/xmodern-14dc8559.css",
+    "isEntry": true,
+    "src": "resources/sass/dashmix/themes/xmodern.scss"
+  },
+  "resources/sass/dashmix/themes/xplay.scss": {
+    "file": "assets/xplay-fd2c62c6.css",
+    "isEntry": true,
+    "src": "resources/sass/dashmix/themes/xplay.scss"
+  },
+  "resources/sass/dashmix/themes/xpro.scss": {
+    "file": "assets/xpro-8bb10fe7.css",
+    "isEntry": true,
+    "src": "resources/sass/dashmix/themes/xpro.scss"
+  },
+  "resources/sass/dashmix/themes/xsmooth.scss": {
+    "file": "assets/xsmooth-b2e7cddc.css",
+    "isEntry": true,
+    "src": "resources/sass/dashmix/themes/xsmooth.scss"
+  },
+  "resources/sass/dashmix/themes/xwork.scss": {
+    "file": "assets/xwork-11f4b457.css",
+    "isEntry": true,
+    "src": "resources/sass/dashmix/themes/xwork.scss"
+  },
+  "resources/sass/front.scss": {
+    "file": "assets/front-9f92929a.css",
+    "isEntry": true,
+    "src": "resources/sass/front.scss"
+  },
+  "resources/sass/main.scss": {
+    "file": "assets/main-71902905.css",
+    "isEntry": true,
+    "src": "resources/sass/main.scss"
+  },
+  "resources/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-003f1154.ttf",
+    "src": "resources/fonts/fontawesome/fa-brands-400.ttf"
+  },
+  "resources/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-faae6fc0.woff2",
+    "src": "resources/fonts/fontawesome/fa-brands-400.woff2"
+  },
+  "resources/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-7d81a1a7.ttf",
+    "src": "resources/fonts/fontawesome/fa-regular-400.ttf"
+  },
+  "resources/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-9169d8be.woff2",
+    "src": "resources/fonts/fontawesome/fa-regular-400.woff2"
+  },
+  "resources/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-cea79b34.ttf",
+    "src": "resources/fonts/fontawesome/fa-solid-900.ttf"
+  },
+  "resources/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-886c8611.woff2",
+    "src": "resources/fonts/fontawesome/fa-solid-900.woff2"
+  }
+}

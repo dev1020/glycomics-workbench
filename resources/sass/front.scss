@@ -1,0 +1,80 @@
+//
+// Dashmix - UI Framework
+// --------------------------------------------------
+
+// Bootstrap functions
+@import 'bootstrap/functions';
+
+// User variables (your own variable overrides)
+@import 'custom/front-variables';
+
+// Custom Bootstrap variables overrides
+@import 'dashmix/variables-bootstrap';
+
+// Bootstrap variables
+@import 'bootstrap/variables';
+
+// Bootstrap maps
+@import 'bootstrap/maps';
+
+// Bootstrap mixins
+@import 'bootstrap/mixins';
+
+// Bootstrap Utilities
+@import 'bootstrap/utilities';
+
+// Custom utilities and Bootstrap overrides
+@import 'dashmix/utilities';
+
+// Layout & components
+@import 'bootstrap/root';
+@import 'bootstrap/reboot';
+@import 'bootstrap/type';
+@import 'bootstrap/images';
+@import 'bootstrap/containers';
+@import 'bootstrap/grid';
+@import 'bootstrap/tables';
+@import 'bootstrap/forms';
+@import 'bootstrap/buttons';
+@import 'bootstrap/transitions';
+@import 'bootstrap/dropdown';
+@import 'bootstrap/button-group';
+@import 'bootstrap/nav';
+@import 'bootstrap/navbar';
+@import 'bootstrap/card';
+@import 'bootstrap/accordion';
+@import 'bootstrap/breadcrumb';
+@import 'bootstrap/pagination';
+@import 'bootstrap/badge';
+@import 'bootstrap/alert';
+@import 'bootstrap/progress';
+@import 'bootstrap/list-group';
+@import 'bootstrap/close';
+@import 'bootstrap/toasts';
+@import 'bootstrap/modal';
+@import 'bootstrap/tooltip';
+@import 'bootstrap/popover';
+@import 'bootstrap/carousel';
+@import 'bootstrap/spinners';
+@import 'bootstrap/offcanvas';
+@import 'bootstrap/placeholders';
+
+// Bootstrap Helpers
+@import 'bootstrap/helpers';
+
+// Bootstrap Utilities
+@import 'bootstrap/utilities/api';
+
+// Core third party components
+@import 'vendor/animate';
+@import 'vendor/fontawesome/fontawesome';
+@import 'vendor/fontawesome/regular';
+@import 'vendor/fontawesome/solid';
+@import 'vendor/fontawesome/brands';
+@import 'vendor/simple-line-icons';
+
+
+// User styles (your own styles/overrides)
+
+@import 'custom/front';
+@import 'custom/front-variables';

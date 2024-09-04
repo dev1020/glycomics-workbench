@@ -1,0 +1,54 @@
+#slidedeck_frame {
+	background: url(deck-back.png) 0 0 no-repeat;
+	width: 950px;
+	height: 320px;
+	padding: 19px 20px;
+}
+#slidedeck_frame dl {
+	width: 953px;
+	height: 320px;
+	margin: 0;
+	background:#bebebe;
+}
+.slidedeck dd {
+	border-right: 5px solid #bebebe;
+	background: url('slides.png') bottom left #bebebe repeat-x;
+}
+.slidedeck dt {
+	cursor: pointer;
+	height: 42px;
+	line-height: 38px;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: url('spines.png') top left #333;
+	color: #505050;
+}
+.slidedeck dt:hover {
+	color: #fff;
+	background-position: left bottom;
+	background:#000;
+}
+.slidedeck dt.active, .slidedeck dt.active:hover {
+	cursor: default;
+	color: #fff;
+	background:#000;
+	background-position: left bottom;
+}
+.slidedeck dt .index {
+	font-size: 14px;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #bebebe;
+}
+.slidedeck dt:hover .index { color: #fff; }
+.slidedeck dt.active .index { color: #ffffff; }
+.slidedeck .activeCorner {
+	margin-left: 0px;
+	background-image: url('corner.png');
+	width: 8px;
+	height: 17px;
+	float:left;
+}
